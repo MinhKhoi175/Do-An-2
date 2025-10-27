@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=RFSDA Pin=RFID -1
+Removed Pin From Net: NetName=RFSCK Pin=RFID -2
+Removed Pin From Net: NetName=RFMOSI Pin=RFID -3
+Removed Pin From Net: NetName=RFMISO Pin=RFID -4
+Removed Pin From Net: NetName=GND Pin=RFID -6
+Removed Pin From Net: NetName=RFRST Pin=RFID -7
+Removed Pin From Net: NetName=+3.3V Pin=RFID -8
+Removed Member From Class: ClassName=Sheet1 Member=RFID 
+Added Component: Designator=RFID(JP 1x8 CT)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH004006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Jump Ðon Cái 2.54MM 1x20P Th?ng"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3.3V Pin=RFID-1
+Added Pin To Net: NetName=RFRST Pin=RFID-2
+Added Pin To Net: NetName=GND Pin=RFID-3
+Added Pin To Net: NetName=RFMISO Pin=RFID-5
+Added Pin To Net: NetName=RFMOSI Pin=RFID-6
+Added Pin To Net: NetName=RFSCK Pin=RFID-7
+Added Pin To Net: NetName=RFSDA Pin=RFID-8
+Added Member To Class: ClassName=Sheet1 Member=Component NGU?N SV Ngu?n
+Added Member To Class: ClassName=Sheet1 Member=Component RFID JP 1x8 2.54

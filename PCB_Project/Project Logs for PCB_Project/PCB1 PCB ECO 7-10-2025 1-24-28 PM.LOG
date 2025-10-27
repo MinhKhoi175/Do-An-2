@@ -1,0 +1,16 @@
+Change Component Designator: OldDesignator=H8 NewDesignator=VÂN TAY 
+Change Component Designator: OldDesignator=JP1 NewDesignator=SERVO 
+Change Component Designator: OldDesignator=JP2 NewDesignator=NGU?N SV
+Change Component Designator: OldDesignator=JP3 NewDesignator=NGU?N SV
+Change Component Designator: OldDesignator=JP4 NewDesignator=KEYPAD 4X4
+Change Component Designator: OldDesignator=JP5 NewDesignator=BUZZER
+Change Component Designator: OldDesignator=JP6 NewDesignator=RELAY 4 KENH 
+Change Component Designator: OldDesignator=JP7 NewDesignator=C?M BI?N CU?NG Ð? ÁNH SÁNG 
+Change Component Designator: OldDesignator=JP9 NewDesignator=LCD 20X4
+Change Component Designator: OldDesignator=JP11 NewDesignator=DHT22
+Change Component Designator: OldDesignator=JP12 NewDesignator=KHÍ GAS
+Change Component Designator: OldDesignator=JP13 NewDesignator=MÀN HÌNH OLED
+Change Component Designator: OldDesignator=M1 NewDesignator=RFID 
+Change Component Designator: OldDesignator=U1 NewDesignator=Jack DC
+Change Component Designator: OldDesignator=U3 NewDesignator=ESP32 MASTER
+Change Component Designator: OldDesignator=U4 NewDesignator=ESP32 SLIVE

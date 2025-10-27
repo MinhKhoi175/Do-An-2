@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=GND Pin=VAN TAY -5
+Removed Pin From Net: NetName=ASTX Pin=VAN TAY -6
+Removed Pin From Net: NetName=ASRX Pin=VAN TAY -7
+Removed Pin From Net: NetName=+3.3V Pin=VAN TAY -8
+Change Component Footprint: Designator=VAN TAY  Old Footprint=XH2.54M-8 New Footprint=JP 1x8 DT
+Change Component Comment : Designator=VAN TAY  Old Comment=AS608 New Comment=JP 1x8 2.54
+Change component parameters: Designator = "VAN TAY " ("VAN TAY "); Footprint = "XH2.54M-8"; UniqueID = "\IWCOJHCR" ("\IWCOJHCR")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH000903"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "Jump Ðon Ð?c 2.54MM 1x40P Th?ng 11MM"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3.3V Pin=VAN TAY -1
+Added Pin To Net: NetName=ASRX Pin=VAN TAY -2
+Added Pin To Net: NetName=ASTX Pin=VAN TAY -3
+Added Pin To Net: NetName=GND Pin=VAN TAY -4
+Added Member To Class: ClassName=Sheet1 Member=Component NGUON SV Ngu?n

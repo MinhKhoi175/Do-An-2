@@ -1,0 +1,1304 @@
+{
+  "uuid": "e26572b89d62a7a795134a98e753cd26",
+  "path": "Offline/ESP32_MASTER_SLAVE",
+  "name": "ESP32_MASTER_SLAVE",
+  "content": "",
+  "created_at": "2025-06-09 21:04:54",
+  "updated_at": "2025-07-09 23:14:07",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "11c1a786b513432358aad919a61b6e3e",
+      "title": "ESP32_Master_Slave",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "2ad54089cae44fcfa9b79534dd3be179": 1,
+        "e1e4c6022e43483d8fe15d015c0bba9d": 1,
+        "0a59d22c70404173a5cfc877d2606fbf": 2,
+        "8107585032474164a4c6e397250489bd": 1,
+        "6a51ee9f0f37478e98442ebb6d7e9066": 1,
+        "daa3cf3493c84fa3b0b6a6d427d23f0b": 1,
+        "b25fb63520d040268092bfc806118c8c": 2,
+        "a39f40cff7f64fcd86eb61f5dfc0bd4f": 2,
+        "5bee023352034a6a8c6b563493492285": 1,
+        "a9aa2b14f188405792fa87ac344499a4": 2,
+        "93b44d62463c4c9c82dd7108c8ee7d73": 1,
+        "5bb1be8cebd04dc59ef9111ec4e21537": 1,
+        "d4d9f19a53164f9a84da8fe368dc0f63": 1,
+        "5bbe20e021aa43c2821ca43098e05655": 1,
+        "0d0a13f4d5e4481aa82dc0293d1aa27e": 1,
+        "4ed8ef4b620345b89f14dcfa23d514a7": 1,
+        "941b8d916d0847fda5fe32300c33402b": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "4X4KEYPAD",
+          3,
+          "4X4KEYPAD",
+          "4X1KEYPAD,4X2KEYPAD,4X4KEYPAD",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "AMS1117-3.3V SOT223",
+          3,
+          "SOT223",
+          "AMS1,AMS2,AMS3",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "Buzzer-Module",
+          1,
+          "BUZZER-MODULE-EINAR",
+          "BUZ1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "100uF",
+          6,
+          "CAP-D8.0×H10.5",
+          "C1,C2,C6,C8,C9,C11",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "0.1uF",
+          6,
+          "C1206",
+          "C3,C4,C5,C7,C10,C12",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "DC005-2.0MM",
+          3,
+          "DC-IN-TH_DC005",
+          "DC1,DC2,DC3",
+          {
+            "Manufacturer Part": "DC005-2.0MM",
+            "Manufacturer": "SOFNG",
+            "Supplier": "LCSC",
+            "Supplier Part": "C111567"
+          }
+        ],
+        [
+          "FAN",
+          2,
+          "FAN",
+          "FAN,FAN1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "MOXA",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "ENA",
+          1,
+          "HDR-M-2.54_1X2",
+          "J1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C124375"
+          }
+        ],
+        [
+          "5V_SERVO",
+          1,
+          "HDR-M-2.54_1X2",
+          "J2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C124375"
+          }
+        ],
+        [
+          "RELAY 4-CHANNEL",
+          1,
+          "HDR-M-2.54_1X6",
+          "J3",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C190819"
+          }
+        ],
+        [
+          "BUS I2C",
+          1,
+          "HDR-M-2.54_2X2",
+          "J4",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C66690"
+          }
+        ],
+        [
+          "LED-TH-5mm_R",
+          6,
+          "LED-TH_BD5.0_RED",
+          "LED1,LED2,LED3,LED4,LED5,LED6",
+          {
+            "Manufacturer Part": "333-2SURD/S530-A3",
+            "Manufacturer": "EVERLIGHT(台湾亿光)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C87271"
+          }
+        ],
+        [
+          "SERVO",
+          3,
+          "SERVO",
+          "M1,M2,M3",
+          {
+            "Manufacturer Part": "New SchematicLib",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "20X4 LCD I2C",
+          3,
+          "20X4 LCD WITH I2C",
+          "P1,P2,P3",
+          {
+            "Manufacturer Part": "Header-Female-2.54_1x4",
+            "Manufacturer": "ReliaPro",
+            "Supplier": "LCSC",
+            "Supplier Part": "C124413"
+          }
+        ],
+        [
+          "330",
+          6,
+          "R0603",
+          "R1,R2,R3,R4,R5,R6",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "ESP32 - Master",
+          3,
+          "ESP32-WROOM-32",
+          "U1,U14,U28",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "ESP32 - Slave",
+          4,
+          "ESP32-WROOM-32",
+          "U2,U15,U27,U35",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "BH1750FVI",
+          3,
+          "BH1750FVI",
+          "U3,U8,U32",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "RFID - RC522",
+          3,
+          "RFID-RC522",
+          "U4,U12,U30",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "DHT22",
+          3,
+          "DHT22",
+          "U5,U17,U25",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "AS608",
+          3,
+          "AS608",
+          "U6,U13,U29",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "Ambox",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "OLED SSH1106 I2C",
+          4,
+          "1.3_OLED_SSH1106_I2C_128X64_BOARD",
+          "U7,U11,U31,U34",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LIB1HR",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "MQ-2-MODULE",
+          3,
+          "SENSOR - MQ-2",
+          "U9,U16,U26",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "Relay Module",
+          8,
+          "RELAY MODULE HW-279 2 RELAYS",
+          "U10,U18,U19,U20,U21,U22,U23,U24",
+          {
+            "Manufacturer Part": "Relay Module",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ]
+      ],
+      "updateTime": 1752077647,
+      "createTime": 1749477894,
+      "histories": [],
+      "created_at": "2025-06-09 21:04:54",
+      "updated_at": "2025-07-09 23:14:07"
+    },
+    {
+      "uuid": "502b47433045aecf4cd5c6da540435af",
+      "title": "SDNL",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "941b8d916d0847fda5fe32300c33402b": 1,
+        "4ed8ef4b620345b89f14dcfa23d514a7": 1,
+        "5bb1be8cebd04dc59ef9111ec4e21537": 1,
+        "5bee023352034a6a8c6b563493492285": 1,
+        "a39f40cff7f64fcd86eb61f5dfc0bd4f": 2,
+        "b25fb63520d040268092bfc806118c8c": 2,
+        "daa3cf3493c84fa3b0b6a6d427d23f0b": 1,
+        "6a51ee9f0f37478e98442ebb6d7e9066": 1,
+        "8107585032474164a4c6e397250489bd": 1,
+        "0a59d22c70404173a5cfc877d2606fbf": 2,
+        "e1e4c6022e43483d8fe15d015c0bba9d": 1,
+        "2ad54089cae44fcfa9b79534dd3be179": 1,
+        "e397f51eff444b12b177f9d65b9463b8": 1,
+        "9a6c5d67a88746d68cc9aa69b9f4990b": 4,
+        "8850ffcdb9d242a1b431d4a3e2209db1": 3,
+        "449c6785f42445b48342789b0f0c0124": 1,
+        "bb009484ef804a24ac5d18c54b249586": 3
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "4X4KEYPAD",
+          2,
+          "4X4KEYPAD",
+          "4X1KEYPAD,4X4KEYPAD",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "AMS1117-3.3V SOT223",
+          2,
+          "SOT223",
+          "AMS1,AMS2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "Buzzer-Module",
+          1,
+          "BUZZER-MODULE-EINAR",
+          "BUZ1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "100uF",
+          4,
+          "CAP-D8.0×H10.5",
+          "C1,C2,C6,C8",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "0.1uF",
+          4,
+          "C1206",
+          "C3,C4,C5,C7",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "DC005-2.0MM",
+          2,
+          "DC-IN-TH_DC005",
+          "DC1,DC2",
+          {
+            "Manufacturer Part": "DC005-2.0MM",
+            "Manufacturer": "SOFNG",
+            "Supplier": "LCSC",
+            "Supplier Part": "C111567"
+          }
+        ],
+        [
+          "FAN",
+          1,
+          "FAN",
+          "FAN",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "MOXA",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "ENA",
+          1,
+          "HDR-M-2.54_1X2",
+          "J1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C124375"
+          }
+        ],
+        [
+          "5V_SERVO",
+          1,
+          "HDR-M-2.54_1X2",
+          "J2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C124375"
+          }
+        ],
+        [
+          "RELAY 4-CHANNEL",
+          1,
+          "HDR-M-2.54_1X6",
+          "J3",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C190819"
+          }
+        ],
+        [
+          "BUS I2C",
+          1,
+          "HDR-M-2.54_2X2",
+          "J4",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C66690"
+          }
+        ],
+        [
+          "LED-TH-5mm_R",
+          3,
+          "LED-TH_BD5.0_RED",
+          "LED1,LED2,LED3",
+          {
+            "Manufacturer Part": "333-2SURD/S530-A3",
+            "Manufacturer": "EVERLIGHT(台湾亿光)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C87271"
+          }
+        ],
+        [
+          "SERVO",
+          2,
+          "SERVO",
+          "M1,M2",
+          {
+            "Manufacturer Part": "New SchematicLib",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "20X4 LCD I2C",
+          2,
+          "20X4 LCD WITH I2C",
+          "P1,P2",
+          {
+            "Manufacturer Part": "Header-Female-2.54_1x4",
+            "Manufacturer": "ReliaPro",
+            "Supplier": "LCSC",
+            "Supplier Part": "C124413"
+          }
+        ],
+        [
+          "330",
+          3,
+          "R0603",
+          "R1,R2,R3",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "ESP32 - Master",
+          2,
+          "ESP32-WROOM-32",
+          "U1,U14",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "ESP32 - Slave",
+          2,
+          "ESP32-WROOM-32",
+          "U2,U15",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "BH1750FVI",
+          2,
+          "BH1750FVI",
+          "U3,U8",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "RFID - RC522",
+          2,
+          "RFID-RC522",
+          "U4,U12",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "DHT22",
+          2,
+          "DHT22",
+          "U5,U17",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "AS608",
+          2,
+          "AS608",
+          "U6,U13",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "Ambox",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "OLED SSH1106 I2C",
+          2,
+          "1.3_OLED_SSH1106_I2C_128X64_BOARD",
+          "U7,U11",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LIB1HR",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "MQ-2-MODULE",
+          2,
+          "SENSOR - MQ-2",
+          "U9,U16",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "Relay Module",
+          4,
+          "RELAY MODULE HW-279 2 RELAYS",
+          "U10,U19,U20,U21",
+          {
+            "Manufacturer Part": "Relay Module",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ]
+      ],
+      "updateTime": 1752070116,
+      "createTime": 1751816352,
+      "histories": [],
+      "created_at": "2025-07-06 22:39:12",
+      "updated_at": "2025-07-09 21:08:36"
+    },
+    {
+      "uuid": "f3038a45e644441a919e0cc187574a7f",
+      "title": "Sheet_2",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "8850ffcdb9d242a1b431d4a3e2209db1": 3,
+        "bb009484ef804a24ac5d18c54b249586": 3,
+        "449c6785f42445b48342789b0f0c0124": 1,
+        "9a6c5d67a88746d68cc9aa69b9f4990b": 4,
+        "e397f51eff444b12b177f9d65b9463b8": 1,
+        "2ad54089cae44fcfa9b79534dd3be179": 1,
+        "0a59d22c70404173a5cfc877d2606fbf": 3,
+        "8107585032474164a4c6e397250489bd": 1,
+        "6a51ee9f0f37478e98442ebb6d7e9066": 1,
+        "daa3cf3493c84fa3b0b6a6d427d23f0b": 1,
+        "b25fb63520d040268092bfc806118c8c": 2,
+        "a39f40cff7f64fcd86eb61f5dfc0bd4f": 2,
+        "5bee023352034a6a8c6b563493492285": 1,
+        "5bb1be8cebd04dc59ef9111ec4e21537": 2,
+        "941b8d916d0847fda5fe32300c33402b": 1,
+        "4ed8ef4b620345b89f14dcfa23d514a7": 1,
+        "e1e4c6022e43483d8fe15d015c0bba9d": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "4X4KEYPAD",
+          3,
+          "4X4KEYPAD",
+          "4X1KEYPAD,4X2KEYPAD,4X4KEYPAD",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "AMS1117-3.3V SOT223",
+          3,
+          "SOT223",
+          "AMS1,AMS2,AMS3",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "Buzzer-Module",
+          1,
+          "BUZZER-MODULE-EINAR",
+          "BUZ1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "100uF",
+          6,
+          "CAP-D8.0×H10.5",
+          "C1,C2,C6,C8,C9,C11",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "0.1uF",
+          6,
+          "C1206",
+          "C3,C4,C5,C7,C10,C12",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "DC005-2.0MM",
+          3,
+          "DC-IN-TH_DC005",
+          "DC1,DC2,DC3",
+          {
+            "Manufacturer Part": "DC005-2.0MM",
+            "Manufacturer": "SOFNG",
+            "Supplier": "LCSC",
+            "Supplier Part": "C111567"
+          }
+        ],
+        [
+          "FAN",
+          2,
+          "FAN",
+          "FAN,FAN1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "MOXA",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "ENA",
+          1,
+          "HDR-M-2.54_1X2",
+          "J1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C124375"
+          }
+        ],
+        [
+          "5V_SERVO",
+          1,
+          "HDR-M-2.54_1X2",
+          "J2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C124375"
+          }
+        ],
+        [
+          "RELAY 4-CHANNEL",
+          1,
+          "HDR-M-2.54_1X6",
+          "J3",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C190819"
+          }
+        ],
+        [
+          "BUS I2C",
+          1,
+          "HDR-M-2.54_2X2",
+          "J4",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C66690"
+          }
+        ],
+        [
+          "LED-TH-5mm_R",
+          6,
+          "LED-TH_BD5.0_RED",
+          "LED1,LED2,LED3,LED4,LED5,LED6",
+          {
+            "Manufacturer Part": "333-2SURD/S530-A3",
+            "Manufacturer": "EVERLIGHT(台湾亿光)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C87271"
+          }
+        ],
+        [
+          "SERVO",
+          3,
+          "SERVO",
+          "M1,M2,M3",
+          {
+            "Manufacturer Part": "New SchematicLib",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "20X4 LCD I2C",
+          3,
+          "20X4 LCD WITH I2C",
+          "P1,P2,P3",
+          {
+            "Manufacturer Part": "Header-Female-2.54_1x4",
+            "Manufacturer": "ReliaPro",
+            "Supplier": "LCSC",
+            "Supplier Part": "C124413"
+          }
+        ],
+        [
+          "330",
+          6,
+          "R0603",
+          "R1,R2,R3,R4,R5,R6",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "ESP32 - Master",
+          3,
+          "ESP32-WROOM-32",
+          "U1,U14,U28",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "ESP32 - Slave",
+          4,
+          "ESP32-WROOM-32",
+          "U2,U15,U27,U35",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "BH1750FVI",
+          3,
+          "BH1750FVI",
+          "U3,U8,U32",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "RFID - RC522",
+          3,
+          "RFID-RC522",
+          "U4,U12,U30",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "DHT22",
+          3,
+          "DHT22",
+          "U5,U17,U25",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "AS608",
+          3,
+          "AS608",
+          "U6,U13,U29",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "Ambox",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "OLED SSH1106 I2C",
+          4,
+          "1.3_OLED_SSH1106_I2C_128X64_BOARD",
+          "U7,U11,U31,U34",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LIB1HR",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "MQ-2-MODULE",
+          3,
+          "SENSOR - MQ-2",
+          "U9,U16,U26",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "Relay Module",
+          8,
+          "RELAY MODULE HW-279 2 RELAYS",
+          "U10,U18,U19,U20,U21,U22,U23,U24",
+          {
+            "Manufacturer Part": "Relay Module",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ]
+      ],
+      "updateTime": 1752077647,
+      "createTime": 1751816352,
+      "histories": [],
+      "created_at": "2025-07-06 22:39:12",
+      "updated_at": "2025-07-09 23:14:07"
+    },
+    {
+      "uuid": "bbccc867a32eddb4d46828da53dd3e77",
+      "puuid": "e26572b89d62a7a795134a98e753cd26",
+      "title": "PCB_ESP32_MASTER_SLAVE",
+      "filename": "PCB_ESP32_MASTER_SLAVE.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "356f13d4821d41a7941b9fcaf341cdc6": 1,
+        "18800f7636494f0f8573150b0a5b0cfe": 1,
+        "f10026b79ce04d2bbd70be9d49d81fbe": 1,
+        "0e9c66b66e5b439c90eae5ceae9bde47": 2,
+        "7bdec8012728462a85919a4d0d033579": 2,
+        "1337670005c6484c999f9b4c272ee9fe": 1,
+        "70aa5812f21f4991bf427395d51849f4": 2,
+        "df3ca37cb13d499cb713e9aa6fdd0c7b": 1,
+        "8c011694efe04de7ac0c392bf11240d5": 1,
+        "1e2e6aafec054e9ab74a3342377aaac0": 1,
+        "1f394a736d2b448c9d64561e046d63e6": 1,
+        "a3ffdf6e725044ce9cf3259e3d24340d": 2,
+        "e9350620d66a4b7e928fd4ba665502f5": 1,
+        "9bf0337c6dcd494b8ac9de1a0eab714a": 1,
+        "dba84787688c402289d9f3cc101b00a5": 1,
+        "f0ccd3ac0fa7406f9e8b294e992fe48f": 1,
+        "22f9cd345fd646449a019b7bb972aa50": 1,
+        "3c15d9cf4856489fbe94588e874f7faf": 1,
+        "688c32fc75524327a8c39888f2f75ad4": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "4X4KEYPAD",
+          1,
+          "4X4KEYPAD",
+          "4X4KEYPAD",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "AMS1117-3.3V SOT223",
+          1,
+          "SOT223",
+          "AMS1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "Buzzer-Module",
+          1,
+          "BUZZER-MODULE-EINAR",
+          "BUZ1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "100uF",
+          2,
+          "CAP-D8.0×H10.5",
+          "C1,C2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "0.1uF",
+          2,
+          "C1206",
+          "C3,C4",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "DC005-2.0MM",
+          1,
+          "DC-IN-TH_DC005",
+          "DC1",
+          {
+            "Manufacturer Part": "DC005-2.0MM",
+            "Manufacturer": "SOFNG",
+            "Supplier": "LCSC",
+            "Supplier Part": "C111567"
+          }
+        ],
+        [
+          "ENA",
+          1,
+          "HDR-M-2.54_1X2",
+          "J1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C124375"
+          }
+        ],
+        [
+          "5V_SERVO",
+          1,
+          "HDR-M-2.54_1X2",
+          "J2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C124375"
+          }
+        ],
+        [
+          "RELAY 4-CHANNEL",
+          1,
+          "HDR-M-2.54_1X6",
+          "J3",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C190819"
+          }
+        ],
+        [
+          "BUS I2C",
+          1,
+          "HDR-M-2.54_2X2",
+          "J4",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C66690"
+          }
+        ],
+        [
+          "SERVO",
+          1,
+          "SERVO",
+          "M1",
+          {
+            "Manufacturer Part": "New SchematicLib",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "20X4 LCD I2C",
+          1,
+          "20X4 LCD WITH I2C",
+          "P1",
+          {
+            "Manufacturer Part": "Header-Female-2.54_1x4",
+            "Manufacturer": "ReliaPro",
+            "Supplier": "LCSC",
+            "Supplier Part": "C124413"
+          }
+        ],
+        [
+          "ESP32 - Master",
+          1,
+          "ESP32-WROOM-32",
+          "U1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "ESP32 - Slave",
+          1,
+          "ESP32-WROOM-32",
+          "U2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "BH1750FVI",
+          1,
+          "BH1750FVI",
+          "U3",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "DHT22",
+          1,
+          "DHT22",
+          "U5",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "AS608",
+          1,
+          "AS608",
+          "U6",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "Ambox",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "OLED SSH1106 I2C",
+          1,
+          "1.3_OLED_SSH1106_I2C_128X64_BOARD",
+          "U7",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LIB1HR",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "ESP32-CAM",
+          1,
+          "COMM-TH_16P-L40.0-W27.0-P2.54_ESP32-CAM",
+          "U8",
+          {
+            "Manufacturer Part": "ESP32-CAM",
+            "Manufacturer": "Ai-Thinker(安信可)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C277946"
+          }
+        ],
+        [
+          "MQ-2-MODULE",
+          1,
+          "SENSOR - MQ-2",
+          "U9",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "RFID - RC522",
+          1,
+          "RFID-RC522",
+          "U4",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ]
+      ],
+      "updateTime": 1750262136,
+      "createTime": 1750262136,
+      "histories": [],
+      "created_at": "2025-06-18 22:55:36",
+      "updated_at": "2025-06-18 22:55:36"
+    }
+  ],
+  "sort": [
+    "11c1a786b513432358aad919a61b6e3e",
+    "502b47433045aecf4cd5c6da540435af",
+    "f3038a45e644441a919e0cc187574a7f"
+  ],
+  "title": "ESP32_MASTER_SLAVE",
+  "foldername": "ESP32_MASTER_SLAVE",
+  "schfilename": "ESP32_MASTER_SLAVE.json",
+  "schfilemtime": 1752077647484
+}

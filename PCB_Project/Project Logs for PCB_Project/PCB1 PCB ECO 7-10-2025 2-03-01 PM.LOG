@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GND Pin=BUZZER-1
+Removed Pin From Net: NetName=+3.3V Pin=BUZZER-3
+Removed Member From Class: ClassName=Sheet1 Member=BUZZER
+Added Member To Class: ClassName=Sheet1 Member=Component NGUON SV Ngu?n

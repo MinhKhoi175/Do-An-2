@@ -1,0 +1,5 @@
+Remove Pin=RFID-2 From Net=RFRST
+Remove Pin=RFID-5 From Net=RFMISO
+Remove Pin=RFID-6 From Net=RFMOSI
+Remove Pin=RFID-7 From Net=RFSCK
+Remove Pin=RFID-8 From Net=RFSDA

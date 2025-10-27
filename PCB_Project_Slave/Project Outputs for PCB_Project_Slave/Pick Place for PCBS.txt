@@ -1,0 +1,26 @@
+Altium Designer Pick and Place Locations
+D:\HOCTAP\he\DAMH2\PCB_Project_Slave\Project Outputs for PCB_Project_Slave\Pick Place for PCBS.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       23/07/25
+Time:       21:11
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+Designator      Comment        Layer    Footprint     Center-X(mm) Center-Y(mm) Rotation Description                                                        
+"RELAY 1"       "RELAY 4 KÊNH" TopLayer JP_1x6_DC     8.8900       55.1180      180      C?m                                                                
+MQ2             MQ2            TopLayer JP_1x4_CT     50.8000      38.4810      270      C?m                                                                
+"MAN HINH OLED" OLED           TopLayer JP_1x4_DT     47.3710      11.9380      0        C?m                                                                
+JP1             "JP 2x2 2.54"  TopLayer JP_2x2_DT     38.8620      60.9600      0        C?m                                                                
+JDC2            "Jac DC"       TopLayer DC-IN         34.9250      12.3190      90       "Jac DC input"                                                     
+"Jack DC2"      AMS1117        TopLayer AMS1117       43.9420      20.3200      90       "IC REG LINEAR 1A SOT-89-3L"                                       
+ESP2            "ESP32 SLIVE"  TopLayer ESP32_38      13.5890      25.6540      0        "Microcontoller Board 38 Pins Wifi 2.4GHz BLE 4.2 ESP32-WROOM-32D" 
+DHT             DHT22          TopLayer JP_1x3_CT     24.2570      62.2300      180      C?m                                                                
+C8              100uF          TopLayer 100UF/16V_SMD 34.1630      36.0680      180      ""                                                                 
+C7              104            TopLayer tu_1206       34.5440      23.6220      90       Dán                                                                
+C6              104            TopLayer tu_1206       30.0990      23.6220      90       Dán                                                                
+C5              100uF          TopLayer 100UF/16V_SMD 34.2900      50.1650      180      ""                                                                 
+"ANH SANG"      BH1750FVI      TopLayer JP_1x5_DT     50.8000      58.6740      270      C?m                                                                
